@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 I am a **Software Engineer/Consultant** with over a decade of experience as a developer. *Fun fact: I used to develop and design Minecraft mods - amassing over 30 million downloads across all projects!*
 
-💪 I am currently **looking for a full-time role** for when I graduate in July 2022. Reach out to me for a chat! (with coffee?)
+💪 I am currently **looking for a full-time role** for when I graduate in 2022. Reach out to me for a chat! (with coffee?)
 
 [![Twitter: msrcodes](https://img.shields.io/twitter/follow/msrcodes?style=social)](https://twitter.com/msrcodes)
 [![Linkedin: mikaelsrozee](https://img.shields.io/badge/-mikaelsrozee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msrcodes/)](https://www.linkedin.com/in/mikaelsrozee/)
