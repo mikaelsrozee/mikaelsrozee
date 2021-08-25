@@ -16,10 +16,10 @@
 </a>
 
 - 🌱 I’m currently **[learning Go](https://github.com/mikaelsrozee/restful-go)**
-- 🔭 I’m currently working on **[SOON]**
+- 🔭 I’m currently working with **[Google DSC University of Portsmouth](https://github.com/gdscports)**
 - 🤔 I’m looking for help with **networking**: [let's chat!](https://t.me/msrcodes)
 - 💬 Ask me about TypeScript, Headless CMS and software engineering principles!
-- 🤔 I’m looking for help with **best development practices for Go**
+- 🤔 I’m looking for help with advice **entering into Developer Advocacy/Relations**
 - 😄 Pronouns: He/Him/His
 
 ## What's in my stack?
