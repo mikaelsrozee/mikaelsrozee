@@ -1,10 +1,8 @@
 # Hey everyone, Mikael here! 🐧
 
-🤷🏻‍♂️ I am a **Versatilist**, with the goal of making things work, making things right and then making things fast.
+🧑🏻‍💻 I am a **Digital and Web Engineering Lead** with over a decade of experience as a developer.
 
-🧑🏻‍💻 I am a **Software Engineer/Consultant** with over a decade of experience as a developer. *Fun fact: I used to develop and design Minecraft mods - amassing over 30 million downloads across all projects!*
-
-💪 I am currently **looking for a full-time role** for when I graduate in 2022. Reach out to me for a chat! (with coffee?)
+*Fun fact: I used to develop and design Minecraft mods - amassing over 30 million downloads across all projects!*
 
 [![Twitter: msrcodes](https://img.shields.io/twitter/follow/msrcodes?style=social)](https://twitter.com/msrcodes)
 [![Linkedin: mikaelsrozee](https://img.shields.io/badge/-mikaelsrozee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msrcodes/)](https://www.linkedin.com/in/mikaelsrozee/)
@@ -15,11 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mikaelsrozee&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
 </a>
 
-- 🌱 I’m currently **[learning Go](https://github.com/mikaelsrozee/restful-go)**
+- 🌱 I’m currently **learning Rust**
 - 🔭 I’m currently working with **[Google DSC University of Portsmouth](https://github.com/gdscports)**
-- 🤔 I’m looking for help with **networking**: [let's chat!](https://t.me/msrcodes)
+- 🤔 Want to **talk**: [let's chat!](https://t.me/msrcodes)
 - 💬 Ask me about TypeScript, Headless CMS and software engineering principles!
-- 🤔 I’m looking for help with advice **entering into Developer Advocacy/Relations**
 - 😄 Pronouns: He/Him/His
 
 ## What's in my stack?
