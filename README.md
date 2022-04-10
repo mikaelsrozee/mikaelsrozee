@@ -6,11 +6,11 @@
 
 [![Twitter: msrcodes](https://img.shields.io/twitter/follow/msrcodes?style=social)](https://twitter.com/msrcodes)
 [![Linkedin: mikaelsrozee](https://img.shields.io/badge/-mikaelsrozee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msrcodes/)](https://www.linkedin.com/in/mikaelsrozee/)
-[![GitHub: msrcodes](https://img.shields.io/github/followers/msrcodes?label=follow%msrcodes&style=social)](https://github.com/msrcodes)
+[![GitHub: msrcodes](https://img.shields.io/github/followers/msrcodes?label=follow%20msrcodes&style=social)](https://github.com/msrcodes)
 [![Telegram: msrcodes](https://img.shields.io/badge/style-telegram-blue?logo=telegram&style=flat&label=talk%20to%20me)](https://t.me/msrcodes)
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaelsrozee&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msrcodes&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
 </a>
 
 - 🌱 I’m currently **learning Rust**
