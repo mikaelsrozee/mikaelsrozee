@@ -1,22 +1,17 @@
 # Hey everyone, Mikael here! 🐧
 
-🧑🏻‍💻 I am a **Digital and Web Engineering Lead** with over a decade of experience as a developer.
+🧑🏻‍💻 I am a **Technical Lead / Lead Engineer** with over a decade of experience as a developer.
 
-*Fun fact: I used to develop and design Minecraft mods - amassing over 30 million downloads across all projects!*
+*Fun fact: I used to develop and design Minecraft mods - amassing over 50 million downloads across all projects!*
 
 [![Twitter: msrcodes](https://img.shields.io/twitter/follow/msrcodes?style=social)](https://twitter.com/msrcodes)
-[![Linkedin: mikaelsrozee](https://img.shields.io/badge/-mikaelsrozee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msrcodes/)](https://www.linkedin.com/in/mikaelsrozee/)
+[![Linkedin: mikaelsrozee](https://img.shields.io/badge/-mikaelsrozee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaelsrozee/)](https://www.linkedin.com/in/mikaelsrozee/)
 [![GitHub: msrcodes](https://img.shields.io/github/followers/msrcodes?label=follow%20msrcodes&style=social)](https://github.com/msrcodes)
-[![Telegram: msrcodes](https://img.shields.io/badge/style-telegram-blue?logo=telegram&style=flat&label=talk%20to%20me)](https://t.me/msrcodes)
 
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=msrcodes&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
-</a>
-
-- 🌱 I’m currently **learning Rust**
-- 🔭 I’m currently working with **[Google DSC University of Portsmouth](https://github.com/gdscports)**
-- 🤔 Want to **talk**: [let's chat!](https://t.me/msrcodes)
-- 💬 Ask me about TypeScript, Headless CMS and software engineering principles!
+- 🌱 I’m currently **learning Go**
+- 🔭 I’m currently working with Elanco Animal Health as a Technical Lead - Web Technologies
+- 🤔 Want to **talk**: [let's chat!](https://www.linkedin.com/in/mikaelsrozee/)
+- 💬 Ask me about TypeScript, Headless CMS and software engineering principles
 - 😄 Pronouns: He/Him/His
 
 ## What's in my stack?
